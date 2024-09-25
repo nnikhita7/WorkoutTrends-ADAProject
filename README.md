@@ -11,10 +11,10 @@ I obtained my dataset from Kaggle   [GYM_Excercise](https://www.kaggle.com/datas
 
 ## Dataset Highlights:
 
-#### Exercise Type: Strength workouts targeting various muscle groups.
-#### Equipment: Includes gym equipment like barbells, dumbbells, kettlebells, and more.
-#### Fitness Level: Exercises categorized as beginner or intermediate to fit different experiences.
-#### Rating: Each exercise is rated for effectiveness and difficulty, making it easier to find beneficial workouts.
+#### -Exercise Type: Strength workouts targeting various muscle groups.
+#### -Equipment: Includes gym equipment like barbells, dumbbells, kettlebells, and more.
+#### -Fitness Level: Exercises categorized as beginner or intermediate to fit different experiences.
+#### -Rating: Each exercise is rated for effectiveness and difficulty, making it easier to find beneficial workouts.
 
 
 ## Personal Connection: 
