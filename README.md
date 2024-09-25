@@ -6,7 +6,7 @@
 When visiting a gym, the variety of exercises available is striking, from bodyweight movements to machine-based and dumbbell/barbell exercises. With so many choices, both beginners and experienced gym-goers may wonder which exercises best target specific muscles. This project analyzes a dataset of strength-based exercises for muscle groups like the abdominal muscles, chest, biceps, adductors, glutes, forearms, and lower back, and so on. The dataset includes details about exercise type and fitness level. This analysis aims to help individuals choose effective workouts for their fitness goals, especially as interest in fitness has grown since the pandemic.
 
 ## Dataset Source: 
-I obtained my dataset from Kaggle[GYM_Excercise](https://www.kaggle.com/datasets/niharika41298/gym-exercise-data?resource=download)
+I obtained my dataset from Kaggle   [GYM_Excercise](https://www.kaggle.com/datasets/niharika41298/gym-exercise-data?resource=download)
 
 
 ## Dataset Highlights:
