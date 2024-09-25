@@ -23,3 +23,10 @@ The dataset caught my interest because, after the pandemic, everyone, including 
 
 ## Goal:
 To discover the most effective exercises for various fitness goals across different muscle groups, understand workout trends, and provide engaging visualizations that assist users in selecting exercises tailored to their fitness aspirations.
+
+## Using R for Interactive Analysis
+I used R to clean and organise the data. I created an inteactive report with R MArkdown that shows the analysis and graphs together. This makes it easy for users to explore the insights.
+[R Markdown Report](https://rpubs.com/Nikhita7/1216975)
+
+
+
