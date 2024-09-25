@@ -1,7 +1,5 @@
 # WorkoutTrends-ADAProject      
 
-![image](https://github.com/user-attachments/assets/f72ba3d1-6be1-412d-b203-003ac7981e7f)
-
 
 
 ## Overview
