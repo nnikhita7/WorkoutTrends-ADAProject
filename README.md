@@ -28,6 +28,7 @@ To discover the most effective exercises for various fitness goals across differ
 I used R to clean and organise the data. I created an inteactive report with R MArkdown that shows the analysis and graphs together. This makes it easy for users to explore the insights.
 [R Markdown Report](https://rpubs.com/Nikhita7/1216975)
 
-## Json File
+##  Access the JSON File
+[Download GYM JSON](https://raw.githubusercontent.com/nnikhita7/WorkoutTrends-ADAProject/refs/heads/main/GYM_JSON.json)
 
 
