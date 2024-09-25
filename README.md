@@ -29,5 +29,5 @@ I used R to clean and organise the data. I created an inteactive report with R M
 [R Markdown Report](https://rpubs.com/Nikhita7/1216975)
 
 ## Json File
-[GyM] (https://github.com/nnikhita7/WorkoutTrends-ADAProject/blob/main/GYM_JSON.json)
+
 
